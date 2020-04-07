@@ -1,0 +1,262 @@
+АбрауДюрсо - ABRD
+Система ао - AFKS
+Аэрофлот - AFLT
+AGRO-гдр - AGRO
+Акрон - AKRN
+БестЭфБ ао - ALBK
+АЛРОСА-Нюр - ALNU
+АЛРОСА ао - ALRS
+АшинскийМЗ - AMEZ
+Аптеки36и6 - APTK
+РусАква ао - AQUA
+Арсагера - ARSA
+АстрЭнСб - ASSB
+Авангрд-ао - AVAN
+Башнефт ао - BANE
+Башнефт ап - BANEP
+Белуга ао - BELU
+БашИнСв ао - BISV
+БашИнСв ап - BISVP
+Белон ао - BLNG
+БурЗолото - BRZL
+БСП ао - BSPB
+МКБ ао - CBOM
+ЧТПЗ ао - CHEP
+РН-ЗапСиб - CHGZ
+ЧКПЗ ао - CHKZ
+СевСт-ао - CHMF
+ЧМК ао - CHMK
+Телеграф - CNTL
+Телеграф-п - CNTLP
+ДагСб ао - DASB
+ЗаводДИОД - DIOD
+ДетскийМир - DSKY
+ДЭК ао - DVEC
+iДонскЗР - DZRD
+iДонскЗР п - DZRDP
+Электрцинк - ELTZ
+ЭН+ГРУП ао - ENPG
+ENPL-гдр - ENPL
+ЭнелРос ао - ENRU
+ETLN-гдр - ETLN
+ФСК ЕЭС ао - FEES
+ДВМП ао - FESH
+FIVE-гдр - FIVE
+БУДУЩЕЕ ао - FTRE
+ГАЗ ао - GAZA
+ГАЗ ап - GAZAP
+ГАЗКОН-ао - GAZC
+ГАЗПРОМ ао - GAZP
+ГАЗ-сервис - GAZS
+ГАЗ-Тек ао - GAZT
+ЧеркизГ-ао - GCHE
+iММЦБ ао - GEMA
+ГМКНорНик - GMKN
+ГТМ ао - GTRK
+ГЕОТЕК ао - GTSS
+Галс-Девел - HALS
+Химпром ао - HIMC
+Химпром ап - HIMCP
+РусГидро - HYDR
+Инв-Девел - IDVP
+Ижсталь2ао - IGST
+Ижсталь ап - IGSTP
+ИнтерРАОао - IRAO
+ИркЭнерго - IRGZ
+ИРКУТ-3 - IRKT
+iИСКЧ ао - ISKJ
+Славн-ЯНОС - JNOS
+Слав-ЯНОСп - JNOSP
+Куйбазот - KAZT
+Куйбазот-п - KAZTP
+ТНСэКубань - KBSB
+КузбТК ао - KBTK
+КамчатЭ ао - KCHE
+КамчатЭ ап - KCHEP
+КурганГКао - KGKC
+КурганГКап - KGKCP
+КалужскСК - KLSB
+КАМАЗ - KMAZ
+КМЗ - KMEZ
+КосогМЗ ао - KMTZ
+КоршГОК ао - KOGK
+СаратНПЗ - KRKN
+СаратНПЗ-п - KRKNP
+ТКЗКК ао - KRKO
+ТКЗКК ап - KRKOP
+КрасОкт-ао - KROT
+КрасОкт-1п - KROTP
+Красэсб ао - KRSB
+Красэсб ап - KRSBP
+Кокс ао - KSGR
+КСБ ао - KTSB
+КСБ ап - KTSBP
+Кубанэнр - KUBE
+КУЗОЦМ ао - KUNF
+КузнецкийБ - KUZB
+КЗМС ао - KZMS
+ОргСинт ао - KZOS
+ОргСинт ап - KZOSP
+iФармсинтз - LIFE
+ЛУКОЙЛ - LKOH
+Лента др - LNTA
+Лензолото - LNZL
+Лензол. ап - LNZLP
+ЛЭСК ао - LPSB
+Ленэнерго - LSNG
+Ленэнерг-п - LSNGP
+ЛСР ао - LSRG
+Левенгук - LVHK
+МагадЭн ао - MAGE
+МагадЭн ап - MAGEP
+ММК - MAGN
+Мегион-ао - MFGS
+Мегион-ап - MFGSP
+МегаФон ао - MFON
+Магнит ао - MGNT
+СМЗ-ао - MGNZ
+МГТС-5ао - MGTS
+МГТС-4ап - MGTSP
+ТНСэнМарЭл - MISB
+ТНСэМаЭл-п - MISBP
+МосОблБанк - MOBB
+МосБиржа - MOEX
+Морион ао - MORI
+МРСК Центр - MRKC
+МРСК СК - MRKK
+МРСК ЦП - MRKP
+МРСКСиб - MRKS
+МРСК Ур - MRKU
+МРСКВол - MRKV
+МРСКЮга ао - MRKY
+МРСК СЗ - MRKZ
+МордЭнСб - MRSB
++МосЭнерго - MSNG
+МОЭСК - MSRS
+Мостотрест - MSTT
+Мечел ао - MTLR
+Мечел ап - MTLRP
+МТС-ао - MTSS
+М.видео - MVID
+iНПОНаука - NAUK
+Нефтекамск - NFAZ
+НКХП ао - NKHP
+НКНХ ао - NKNC
+НКНХ ап - NKNCP
+Нижкамшина - NKSH
+НЛМК ао - NLMK
+НМТП ао - NMTP
+ТНСэнНН ао - NNSB
+ТНСэнНН ап - NNSBP
+Физика ао - NPOF
+НаукаСвяз - NSVZ
+Новатэк ао - NVTK
+ОР ао - OBUV
+ОГК-2 ао - OGKB
+ОМЗ-ап - OMZZP
+ИНГРАД ао - OPIN
+ПавлАвт ао - PAZA
+ФосАгро ао - PHOR
+ПИК ао - PIKK
+Полюс - PLZL
+ПермьЭнСб - PMSB
+ПермьЭнС-п - PMSBP
+Polymetal - POLY
+Приморье - PRMB
+ПРОТЕК ао - PRTK
+iQIWI - QIWI
+Распадская - RASP
+Raven - RAVN
+РБК ао - RBCM
+РДБанк ао - RDRB
+РГС СК ао - RGSS
+ЭнергияРКК - RKKE
+Роллман - RLMN
+Роллман-п - RLMNP
+РуссНфт ао - RNFT
+Русолово - ROLO
+Росбанк ао - ROSB
+Роснефть - ROSN
+РОСИНТЕРао - ROST
+Россети ао - RSTI
+Россети ап - RSTIP
+ГазпРнД ао - RTGZ
+Ростел -ао - RTKM
+Ростел -ап - RTKMP
+ТНСэнРст - RTSB
+ТНСэнРст-п - RTSBP
+RUSAL plc - RUAL
+Русгрэйн - RUGR
+ИКРУСС-ИНВ - RUSI
+Русполимет - RUSP
+РязЭнСб - RZSB
+СамарЭн-ао - SAGO
+СамарЭн-ап - SAGOP
+СаратЭн-ао - SARE
+СаратЭн-ап - SAREP
+Сбербанк - SBER
+Сбербанк-п - SBERP
+Селигдар - SELG
+Селигдар-п - SELGP
+САФМАР ао - SFIN
+Газпрнефть - SIBN
+Сахэнер ао - SLEN
+Сургнфгз - SNGS
+Сургнфгз-п - SNGSP
+СтаврЭнСб - STSB
+СтаврЭнСбп - STSBP
+СОЛЛЕРС - SVAV
+СЗПароход - SZPR
+ТамбЭнСб - TASB
+ТамбЭнСб-п - TASBP
+Татнфт 3ао - TATN
+Татнфт 3ап - TATNP
+TCS-гдр - TCSG
+ТГК-1 - TGKA
+ТГК-2 - TGKB
+ТГК-2 ап - TGKBP
+Квадра - TGKD
+Квадра-п - TGKDP
+ТГК-14 - TGKN
+ТНСэнрг ао - TNSE
+ТРК ао - TORS
+ТРК ап - TORSP
+ТрансК ао - TRCN
+ТрансФ ао - TRFM
+ТМК ао - TRMK
+Транснф ап - TRNFP
+Таттел. ао - TTLK
+ТЗА ао - TUZA
+ОКС ао - UCSS
+ЮжКузб. ао - UKUZ
+iАвиастКао - UNAC
+ЮУНК ао - UNKL
+Юнипро ао - UPRO
+Уркалий-ао - URKA
+УрКузница - URKZ
+УралСиб ао - USBN
+ЮТэйр ао - UTAR
+ОВК ао - UWGN
+ВолгЭнСб - VGSB
+ВолгЭнСб-п - VGSBP
+Варьеган - VJGZ
+Варьеган-п - VJGZP
+ВХЗ-ао - VLHZ
+ТНСэнВорон - VRSB
+ТНСэнВор-п - VRSBP
+ВСМПО-АВСМ - VSMO
+ВыбСудЗ ао - VSYD
+ВыбСудЗ ап - VSYDP
+ВТБ ао - VTBR
+Возрожд-ао - VZRZ
+Возрожд-п - VZRZP
+ЦМТ ао - WTCM
+ЦМТ ап - WTCMP
+ЯТЭК ао - YAKG
+Якутскэнрг - YKEN
+Якутскэн-п - YKENP
+Yandex clA - YNDX
+ТНСэнЯр - YRSB
+ТНСэнЯр-п - YRSBP
+ЗИЛ ао - ZILL
+ЗВЕЗДА ао - ZVEZ

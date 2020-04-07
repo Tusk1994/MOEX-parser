@@ -1,0 +1,15 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# other folders
+/other
+/old
+/shares
+
+# venv
+/venv
+
+#.idea
+/.idea
+
+# .pyc
+/__pycache__
